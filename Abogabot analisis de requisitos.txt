@@ -1,0 +1,27 @@
+Abogabot:
+Requisitos:
+
+Formulario para carga de demandas->proceso de pago
+
+-Cliente:
+Requisitos funcionales:
+-Registrarse y editar sus datos.
+-Solicitar proceso legal(demanda).
+-Pagar solicitud de proceso legal.
+-Ver sus solicitudes de procesos legales. 
+-Ver estado de los procesos legales solicitados en curso.
+
+Requisitos no funcionales
+-Notificaciones por correo electronico con actualizaciones de estado del proceso
+
+-Administrador:
+Requisitos funcionales:
+-Darshboard
+	-Ver demandas en formato word (generado por el sistema).
+	-Ver pagos
+	-Actualizar estado de los procesos legales, agregar comentarios.
+Requisitos no funcionales:
+-Notificacion por correo de nuevos procesos legales aceptados.
+
+Otros requisitos no funcionales:
+Diseño responsive para la correcta visualizacion desde distintos dispositivos.
